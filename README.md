@@ -6,7 +6,7 @@ Frontend developer
 
 I've been learning to code since 2021, after switching careers. I started with C in "school 21" in Moscow, but I have really found a passion for frontend development in the online course on Hexlet
 
-*   🌍  I'm based in Tivat, Montenegro
+*   🌍  I'm based in Tenerife, Canarias, Spain
 *   ✉️  You can contact me at [kduvarova@gmail.com](mailto:kduvarova@gmail.com)
 *   🧠  I'm learning React
 
